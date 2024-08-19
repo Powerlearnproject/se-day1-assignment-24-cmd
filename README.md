@@ -55,4 +55,4 @@ Define prompt engineering and discuss its importance in interacting with AI mode
 
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-if you ask AI to tell you about county it will tend to give a general answer but when you specify to it tell mie about laikipia county it will try to explain more about the laikipia county.
+if you ask AI to tell you about county it will tend to give a general answer but when you specify to it tell mie about laikipia county it will try to explain more about the laikipia county
